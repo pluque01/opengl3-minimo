@@ -8,6 +8,8 @@
 #include <iostream>
 #include <iomanip>
 
+#define GLM_ENABLE_EXPERIMENTAL
+
 // includes de OpenGL, GLFW and GLEW
 #ifdef __linux__
 // -----------------------------------------------
