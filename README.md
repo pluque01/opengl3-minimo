@@ -6,8 +6,6 @@ En esta carpeta se encuentra el código fuente mínimo de una programa OpenGL en
    - 1.1 [Linux](#ReqLinux)
 1. [Clonar este repositorio](#ClonarRepo)
 1. [Compilar y ejecutar](#CompilarEjecutar)
-   - 3.1 [Linux y Mac OS](#CompLinuxMacOS)
-   - 3.2 [Windows](#CompWindows)
 1. [Uso de _VS Code_](#vscode)
 
 ## 1. <a name='Requisitos'>Requisitos</a>
