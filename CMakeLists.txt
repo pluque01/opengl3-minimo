@@ -13,8 +13,8 @@ project (opengl3_minimo_linux)
 
 ## diversos aspectos configurables (path relativos a la carpeta que tiene este archivo)
 
-set ( carpeta_fuentes     "../../src")
-set ( carpeta_ejecutables "../bin" )
+set ( carpeta_fuentes     "./src")
+set ( carpeta_ejecutables "./bin" )
 set ( flags_compilador    "-std=c++20 -Wall -Wfatal-errors -Wno-deprecated-declarations" ) 
 set ( nombre_exe_debug    "debug_exe" )
 set ( nombre_exe_release  "release_exe" )
